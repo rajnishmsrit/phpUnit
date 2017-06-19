@@ -1,0 +1,23 @@
+4.Fixtures
+
+It cannot be emphasized enough that sharing fixtures between tests reduces the value of the tests. The underlying design problem is that objects are not loosely coupled. You will achieve better results solving the underlying design problem and then writing tests using stubs (see Chapter 9), than by creating dependencies between tests at runtime and ignoring the opportunity to improve your design.
+
+https://testing.googleblog.com/2008/05/tott-using-dependancy-injection-to.html
+
+https://phpunit.de/manual/current/en/appendixes.annotations.html#appendixes.annotations.backupGlobals
+
+Note
+The backup and restore operations for global variables and static class attributes use serialize() and unserialize().
+Objects of some classes (e.g., PDO) cannot be serialized and the backup operation will break when such an object is stored e.g. in the $GLOBALS array.
+
+5. Organizing Tests
+
+https://phpunit.de/manual/current/en/writing-tests-for-phpunit.html#writing-tests-for-phpunit.test-dependencies
+
+8. Database Testing
+
+WordPress, TYPO3 or Symfony with Doctrine or Propel,
+
+Problems with Phpunit
+
+Object serialization

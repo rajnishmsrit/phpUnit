@@ -14,5 +14,8 @@
         "classmap":[
             "app/code"
         ]
+    },
+    "require-dev": {
+        "phpunit/dbunit": "^3.0"
     }
 }
