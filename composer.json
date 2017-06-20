@@ -16,6 +16,9 @@
         ]
     },
     "require-dev": {
-        "phpunit/dbunit": "^3.0"
-    }
+        "phpunit/dbunit": "^3.0",
+        "mockery/mockery": "dev-master"
+
+    },
+    "prefer-stable": true
 }
