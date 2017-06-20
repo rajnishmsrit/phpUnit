@@ -8,7 +8,8 @@
   "settings": {
         "xdebug": {
             //Local Server URL for Xdebug
-             "url": "http://localhost/repos/testing/",
+            //http://localhost/repos/testing/index.php?XDEBUG_SESSION_START=sublime.xdebug
+             "url": "http://localhost/repos/testing/index.php",
         }
     }
 }
