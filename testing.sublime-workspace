@@ -1,0 +1,462 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"debug",
+				"debug_tester"
+			],
+			[
+				"debu",
+				"debug_tester"
+			],
+			[
+				"asser",
+				"assertTrue\t(DataTest.php)"
+			],
+			[
+				"get",
+				"getTotal\t(Data.php)"
+			],
+			[
+				"class",
+				"class_alias"
+			],
+			[
+				"cl",
+				"cli\t(project_todo.txt)"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"php",
+				"php\""
+			],
+			[
+				"usern",
+				"username"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"uk-butt",
+				"uk-button-primary \tUIkit class"
+			],
+			[
+				"$_",
+				"$_\tPOST['…']"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 272.0,
+		"last_filter": "xdebug",
+		"selected_items":
+		[
+			[
+				"xdebug",
+				"Xdebug: Clear Breakpoints"
+			],
+			[
+				"debug",
+				"Xdebug: Start Debugging"
+			],
+			[
+				"xdebu",
+				"Preferences: Xdebug Settings – User"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"installpa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"INSTALL ",
+				"Package Control: Install Package"
+			],
+			[
+				"gitsavvy",
+				"GitSavvy: help"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install packag",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/repos/testing"
+	],
+	"file_history":
+	[
+		"/home/rajnish/.config/sublime-text-3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/home/rajnish/.config/sublime-text-3/Packages/User/Xdebug.sublime-settings",
+		"/var/www/repos/test/debug_test.sublime-project",
+		"/var/www/repos/test/untitled.sublime-project",
+		"/var/www/repos/test/test.php",
+		"/var/www/repos/todo.txt",
+		"/var/www/repos/testing/index.php",
+		"/var/www/repos/test",
+		"/var/www/repos/testing/tests/app/code/Phpunit/DataTest2.php",
+		"/var/www/repos/testing/tests/app/code/Phpunit/CsvFileIterator.php",
+		"/var/www/repos/testing/tests/app/code/Phpunit/OutputTest.php",
+		"/var/www/repos/testing/tests/app/code/Phpunit/DatabaseTest.php",
+		"/var/www/repos/testing/tests/app/code/Phpunit/SampleTest.php",
+		"/var/www/repos/testing/tests/app/code/Phpunit/MyGuestbookTest.php",
+		"/var/www/repos/testing/tests/app/code/Phpunit/SampleIgnore.php",
+		"/var/www/repos/finder/README.md",
+		"/var/www/repos/testing/tests/app/code/Phpunit/StubTest.php",
+		"/var/www/repos/testing/lessons.txt",
+		"/var/www/repos/testing/tests/app/code/Phpunit/DependencyAndDataProviderComboTest2.php",
+		"/var/www/repos/testing/tests/app/code/Phpunit/data.csv",
+		"/var/www/repos/testing/tests/app/code/Phpunit/UnitTest.php",
+		"/var/www/repos/testing/composer.json",
+		"/var/www/repos/testing/tests/app/code/Phpunit/TemplateMethodsTest.php",
+		"/var/www/repos/testing/tests/app/code/Phpunit/DataTest.php",
+		"/var/www/repos/testing/vendor/composer/LICENSE",
+		"/var/www/repos/oop_examples/oop_example_04/src/Classes/Car.php",
+		"/var/www/repos/todoApp/.travis.yml",
+		"/var/www/repos/travis-broken-example/RajnishKumar.txt",
+		"/var/www/repos/test/vendor/composer/autoload_classmap.php",
+		"/var/www/repos/travis-broken-example/.travis.yml",
+		"/var/www/repos/testing/app/code/Phpunit/Data.php",
+		"/var/www/repos/testing/.travis.yml",
+		"/home/rajnish/.config/sublime-text-3/Packages/Phpcs/phpcs.sublime-settings",
+		"/var/www/repos/todoApp/travis.yml",
+		"/var/www/repos/todoApp/project_todo.txt",
+		"/var/www/repos/testing/vendor/composer/autoload_classmap.php",
+		"/var/www/repos/test/composer.json",
+		"/var/www/repos/testing/phpunit.xml",
+		"/var/www/repos/test/tests/DataTest.php",
+		"/var/www/repos/testing/vendor/composer/installed.json",
+		"/var/www/repos/testing/vendor/autoload.php",
+		"/var/www/repos/test/app/lib/Data.php",
+		"/var/www/repos/test/vendor/autoload.php",
+		"/var/www/repos/playzend/TODO.md",
+		"/var/www/todo.txt",
+		"/home/rajnish/.config/sublime-text-3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/home/rajnish/.config/sublime-text-3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/var/www/repos/PHPUnit-test/index.php",
+		"/var/www/repos/todoApp/todo_add.php",
+		"/var/www/drupal8/core/lib/Drupal/Core/Database/Database.php",
+		"/var/www/local/todo.txt",
+		"/var/www/repos/todoApp/app/code/rajnish/Login/Create.php",
+		"/var/www/repos/todoApp/action.php",
+		"/var/www/repos/todoApp/config.php",
+		"/var/www/repos/todoApp/app/code/rajnish/Todo/Db.php",
+		"/var/www/repos/todoApp/home.php",
+		"/var/www/repos/todoApp/app/route/todo_add_controller.php",
+		"/var/www/repos/todoApp/app/code/rajnish/Database/ManageUsers.php",
+		"/var/www/repos/todoApp/app/code/rajnish/Database/Database.php",
+		"/home/rajnish/.config/sublime-text-3/Packages/DocBlockr/README.md",
+		"/var/www/repos/todoApp/constants.php",
+		"/var/www/repos/todoApp/create.php",
+		"/var/www/repos/todoApp/user.php",
+		"/var/www/repos/todoApp/index.php",
+		"/var/www/repos/todoApp/app/route/router.php",
+		"/var/www/repos/PHP-Login/index.php",
+		"/var/www/repos/todoApp/app/lib/custom/css/custom.css",
+		"/var/www/repos/todoApp/reset.php",
+		"/var/www/repos/PHP-Login/login/includes/loginform.php",
+		"/var/www/repos/PHP-Login/login/js/signup.js",
+		"/var/www/repos/todoApp/profile.php",
+		"/var/www/github/uikit/dist/css/uikit.css",
+		"/var/www/repos/todoApp/app/code/rajnish/Login/Login.php",
+		"/var/www/repos/todoApp/app/code/rajnish/Login/Reset.php",
+		"/var/www/repos/todoApp/.htaccess",
+		"/var/www/repos/todoApp/vendor/composer/ClassLoader.php",
+		"/var/www/repos/todoApp/app/lib/custom/js/custom.js",
+		"/var/www/repos/todoApp/composer.json",
+		"/var/www/repos/gitbasic",
+		"/var/www/repos/todoApp/README.md",
+		"/var/www/repos/todoApp/app/code/Database/Database.php",
+		"/var/www/repos/todoApp/app/code/Login/Login.php",
+		"/var/www/repos/playzend/.gitignore",
+		"/var/www/github/mini2/Mini/_install/01-create-database.sql",
+		"/var/www/github/mini2/Mini/_install/02-create-table-song.sql",
+		"/var/www/github/mini2/Mini/Model/Model.php",
+		"/var/www/github/mini/application/config/config.php",
+		"/var/www/github/mini2/public/index.php",
+		"/var/www/github/mini/_install/03-insert-demo-data-into-table-song.sql",
+		"/var/www/github/mini/README.md",
+		"/var/www/github/mini/.htaccess",
+		"/var/www/github/mini/public/index.php",
+		"/var/www/github/mini/public/.htaccess",
+		"/var/www/repos/microPHP/toread.txt",
+		"/var/www/local/tovisit.txt",
+		"/var/www/github/SublimeTextXdebug/main.py"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/var/www/drupal8"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"DRUPAL_ROOT",
+			"$query",
+			"class=\"uk-button uk-button-secondary\"",
+			"icon",
+			"float: right",
+			"nav",
+			").\n",
+			"btn_login",
+			"btn_reset",
+			"lib",
+			"DIRECTORY_SEPARATOR",
+			"\t"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 42.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "testing.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"test.php",
+				"repos/test/test.php"
+			],
+			[
+				"index.php",
+				"repos/testing/index.php"
+			],
+			[
+				"todo.txt",
+				"repos/todoApp/project_todo.txt"
+			],
+			[
+				"todo",
+				"repos/playzend/TODO.md"
+			],
+			[
+				"home",
+				"repos/todoApp/home.php"
+			],
+			[
+				"project",
+				"repos/todoApp/project_todo.txt"
+			],
+			[
+				"action.php",
+				"repos/todoApp/action.php"
+			],
+			[
+				"manageuser",
+				"repos/todoApp/app/code/rajnish/Database/ManageUsers.php"
+			],
+			[
+				"index",
+				"repos/PHP-Login/index.php"
+			],
+			[
+				"home.php",
+				"repos/todoApp/home.php"
+			],
+			[
+				"create",
+				"repos/todoApp/create.php"
+			],
+			[
+				"user.php",
+				"repos/todoApp/user.php"
+			],
+			[
+				"custom.css",
+				"repos/todoApp/app/lib/custom/css/custom.css"
+			],
+			[
+				"custom.cs",
+				"repos/todoApp/app/lib/custom/css/custom.css"
+			],
+			[
+				"action",
+				"repos/todoApp/action.php"
+			],
+			[
+				"uikit",
+				"github/uikit/dist/css/uikit.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

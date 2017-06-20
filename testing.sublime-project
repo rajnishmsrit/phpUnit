@@ -1,0 +1,14 @@
+{
+	"folders":
+	[
+		{
+			"path": "."
+		}
+	],
+  "settings": {
+        "xdebug": {
+            //Local Server URL for Xdebug
+             "url": "http://localhost/repos/testing/",
+        }
+    }
+}
